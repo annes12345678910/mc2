@@ -1,0 +1,18 @@
+{
+    "systems": {
+        "Solar System": {
+            "Sun": [
+                "STAR",
+                2,
+                50
+            ],
+            "Mercury": [
+                "ROCKYPLANET",
+                5.8,
+                "GRAY",
+                450,
+                -180
+            ]
+        }
+    }
+}
